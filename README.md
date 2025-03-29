@@ -1,6 +1,6 @@
 # Aplicación de Validación de Formulario con Firebase
 
-Link para ver resultado: [FORMULARIO CON FIREBASE FINALIZADO](formulario-validacion-project.netlify.app)
+Link para ver resultado: [FORMULARIO CON FIREBASE FINALIZADO](https://formulario-validacion-project.netlify.app/)
 
 ![Captura de pantalla del proyecto de Clima](https://github.com/nisvagodev/aplicacion-formulario-validacion-javascript/blob/main/assets/img/captura-de-pantalla.PNG?raw=true)
 
