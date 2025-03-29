@@ -1,0 +1,73 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+  background-color: #4099ff;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+#formulario {
+  padding: 50px;
+  margin: 50px auto;
+  width: 500px;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border-radius: 20px;
+  box-shadow: 3px 2px 28px -4px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 3px 2px 28px -4px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 3px 2px 28px -4px rgba(0, 0, 0, 0.75);
+  position: relative;
+  background-color: #ffffff;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+h2 {
+  text-align: center;
+  position: relative;
+  bottom: 50px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"] {
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  border-bottom: 1px solid #ccc;
+  width: 100%;
+}
+
+button[type="submit"] {
+  padding: 15px 20px;
+  background-color: #002e34;
+  color: #fff;
+  border: 2px solid #002e34;
+  border-radius: 5px;
+  cursor: pointer;
+  width: 100%;
+  font-size: 1em;
+  transition-duration: 0.2s;
+}
+
+button[type="submit"]:hover {
+  background-color: transparent;
+  color: #002e34;
+  border: 2px solid #002e34;
+}
+
+.error-message {
+  color: red;
+  font-size: 12px;
+  margin-top: 5px;
+}
