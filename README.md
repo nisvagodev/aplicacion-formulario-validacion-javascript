@@ -2,7 +2,7 @@
 
 Link para ver resultado: [FORMULARIO CON FIREBASE FINALIZADO]()
 
-![Captura de pantalla del proyecto de Clima]()
+![Captura de pantalla del proyecto de Clima](https://github.com/nisvagodev/aplicacion-formulario-validacion-javascript/blob/main/assets/img/captura-de-pantalla.PNG?raw=true)
 
 La aplicación permite a los usuarios ingresar su nombre, correo electrónico y contraseña, y luego guarda los datos en una base de datos de Firebase. A continuación, se explica el funcionamiento del código JavaScript:
 
